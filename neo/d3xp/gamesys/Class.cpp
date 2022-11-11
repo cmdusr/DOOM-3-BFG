@@ -38,7 +38,8 @@ instancing of objects.
 
 #include "../Game_local.h"
 
-#include "TypeInfo.h"
+// RS NOTE: File not found
+//#include "TypeInfo.h"
 
 
 /***********************************************************************
